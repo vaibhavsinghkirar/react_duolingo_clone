@@ -14,7 +14,7 @@ const Register: NextPage = () => {
   return (
     <main
       className="flex min-h-screen flex-col items-center bg-[#235390] text-white"
-      style={{ backgroundImage: `url(${bgSnow.src})` }}
+      // style={{ backgroundImage: `url(${bgSnow.src})` }}
     >
       <LanguageHeader />
       <div className="container flex grow flex-col items-center justify-center gap-20 px-4 py-16">
